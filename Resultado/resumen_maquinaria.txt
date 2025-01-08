@@ -1,0 +1,73 @@
+GLOSSARY:
+- truck: A small wheel or roller, specifically the wheel of a gun carriage.
+- battery: A device used to power electric devices, consisting of a set of electrically connected electrochemical or, archaically, electrostatic cells. A single such cell when used by itself.
+- check: A situation in which the king is directly threatened by an opposing piece.
+- load: A burden; a weight to be carried.
+- mm: An expression used to show contentment for something
+- lever: (except in generalized senses below) A crowbar.
+- brake: A fern; bracken.
+- max: An extreme, a great extent.
+- lifting: To raise or rise.
+- switch: A bundle of thin sticks, typically made of wood, sometimes bond in such a way that binding can be moved so that it varies the tightness of the binding.
+- use: The act of using.
+- mast: A tall, slim post or tower, usually tapering upward, used to support, for example, the sails on a ship, flags, floodlights, meteorological instruments ,or communications equipment such as an aerial, usually supported by guy-wires.
+- oil: Liquid fat.
+- forklift: A small industrial vehicle with a power-operated fork-like pronged platform that can be raised and lowered for insertion under a load, often on pallets, to be lifted and moved
+- electrolyte: A substance that, in solution or when molten, ionizes and conducts electricity.
+- fork: A pronged tool having a long straight handle, used for digging, lifting, throwing etc.
+- make: Brand or kind; model.
+- forks: A pronged tool having a long straight handle, used for digging, lifting, throwing etc.
+- wheel: A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines.
+- attachment: The act or process of (physically or figuratively) attaching.
+
+STRUCTURED SUMMARY:
+
+RECOMENDACIONES:
+ Four wheel counterbalanced battery forklift truck is our company‟s new product . It has the character of small turning radius, beautiful shape, small dimensions , low gravity , good stability , superior performance . This operation manual is the explanations that how to use 1-5tJ series forklift trucks correctly . It will instruct you how to operate safety and precautionary maintenance . To ensure safety and exert the truck”s potential , all the personnel that in charge of operation . must read this manual thoroughly before starting work with the forklift . The meanings of the meanings of indicators (A) and (B C D F GHI) are explained . The mode can be switched through the mode switch button (G) among the mode of S, P, E , SPE . Mode P is power mode, S is super mode, E is economical mode . Mode SPE is safe mode . Max vehicle speed is limited to about 7km/h . The default mode is mode E after power cutting every time . When operation is wrong or the truck is in trouble, error code will display on the dashboard . Low battery warning (C) When battery quantity is lower than 20 % of maximum capacity, the indicator lights are on . When LED shows no power, please charge battery as quick as possible . When pulling on parking brake lever, this lamp lights on . Entrance button (G) This button is no use for operator . The steering hand-wheel is operated in the conventional manner . To put the power steering in operation again , restart the steering motor without delay . The parking brake lever is used for parking the front two wheels by pulling up on this lever . To release the parking brakes , move the lever forwards . The mast can be tilted by operation of this tilt lever . The tilt speed can be controlled by tilt angle of the lever . The life for use is 3-5 years, scrap it ahead of schedule if found any abnormal . The fork spacing should be adjusting according to loads to be handled . The forks should be set symmetrically to machine centerline and fork stoppers should always be locked again . There are one gap on the below beam . It is forbidden to lock the fork on the gap position , to prevent the fork fall off from the gap . In the middle of the above beam a bolt used to prevent fork works here . The steering column is adjustable to suit individual operators . Turn the hand lever upward to release the steering column and locked by turning it downward . Hydraulic oil reservoir cap is located at the right rear end , below the battery hood . Air leakage plug on the oil tank to let air in the tank goes out . When the operator leaves seat, this switch cut off and the power of truck is cut off . Safety seat belt ( for the trucks exporting to Europe or option)  Use minimum forward and reverse tilt when stacking and un-stacking loads . Never tilt forward unless load is over stack or at low lift height . When handling bulky loads that restrict your vision operate the truck in reverse or have a guide .
+
+PRECAUCIONES:
+Never attempt to tilt the mast beyond vertical when the load is raised high . Watch for branches, cables, doorways or overhangs . Pay caution when working in congested areas . Never lift loads with the truck inclined . Avoid loading work on a grade . Never permit anyone to stand or walk under upraised forks or other attachments if machine is so equipped . Use a safety stand or block to prevent a possibility of fork attachments falling down or moving unexpectedly . Do not operate the truck when the weather is execrable . Especially when wind speed is higher than 5m/s, don‟t operate truck outside . The basic structure of the truck is mast ( include mast and forks ) and body ( include tire ) The lift truck keeps the balance of weight between the truck body and the load on the forks with the center of the front wheels as a fulcrum when the rated capacity load is placed in position . Due care should be paid to the gravity center of loads and forklift to maintain the stability . The safety of the truck is related with your job and your life . We recommended operating the machine under light load conditions for the first stage of operation to get the most from it . The requirements given below should be observed while the machine is in a stage of 100 hours of operation . Must prevent the new battery from over discharging when early used . Usually should recharge when discharging down to 20 % . The force of hand brake lever is adjusted by the bolt on the top of lever . The force increases clock-wise screwing and decreases counter lock-wise screws . The acceleration changes as the stroke changes . The brake lamp should be lighted when the brake pedal steps on 10-20mm . Brake fluid level check Open the brake lubricated cap cover . Check the fluid level in the range allowed . If lack, please add and check if there is air mix into the pipe . Warning Before operating the truck, check all controls and warning devices for proper operation . If any damage or fault is found, don‟t operate truck until corrected . Turn signal, horn and other lamp check Make sure that the turn signal operates properly by pull/push turn signal switch . Make sure the sound of horn is properly by press the horn button Check other lamp and back-up buzzer . Battery maintenance Refer to battery section . Don‟t leave or dismount from the truck when the load is raised high . Decelerate the truck in the situations following: ·turning; . ·close the goods or pallet; . close the deposit area; ·enter a narrow passage; . Un-stacking load; ·the condition of road surface is bad; . The stow-wood must be single and hard enough to support the truck . Don’t use astow wood higher than 300mm（11.81 inch） . Storage battery Attention for using battery : 1 . No firing .
+Additional Precaution Information: It will instruct 
+you how to operate safety and precautionary maintenance.
+
+INSTRUCCIONES:
+1. No smoking .
+2. No over-discharge .
+3. Do not use dry cloth or fiber cloth to clean the battery .
+4. Cleaning with wet cloth .
+5. Wearing glasses, rubber gloves and rubber gloves .
+6. Measure in summer in summer .
+7. Water in the electrolyte is easy to evaporate .
+8. Vitriol include in electrolyte can create burns, see doctor for emergency treatment quickly .
+9. The charging process is automatic , the detail of using method please refer to the charger operate manual .
+10. Connect with earth wire when the charge is used .
+11. To replace fuse，make sure that the input and output circuits are disconnected .
+12. Only professional person is allowed to disassemble the cover to check and repair .
+13. In high temperature season, pay attention 32 to prevent the charge from destroy caused by high temperature .
+14. The first five charging should using Equilibrium Charge according to the intelligent charger operate manual .
+15. The electric-change for new battery’s fore five times should be 1.5 times than the last electric discharging .
+16. During any charge, the temperature of electrode should not be exceeded 450C .
+17. If the temperature doesn’t drop, you should stop charging, till the temperature drops down .
+18. Adopt intelligent charging for the daily charging .
+19. Be sure that the voltage, the capability , the size and the weight of the new battery are according with the forklift truck before replacing the battery .
+20. Forbid to use battery with different voltage or capacity or weight except being promised by factory .
+21. Carry out equilibrium charge once every 15 to 30 days during the storage period .
+22. The special orders storage battery carries on the charge according to '' Accumulator Instruction for use '' .
+23. Automatic Watering System of Forklift Storage Battery-48V battery group Floater .
+24. Automatic watering system is easy to operate, no need to finish watering electrolyte in the electrolyte by hand .
+25. How to correctly install the water tank, choose proper floaters, how to confirm the specification & quantity of the installed accessories according to different types of battery .
+26. Application Specification & Installation includes correct application rules for automatic watering plug, watering pipe, T/L- pieces and male/female couplings .
+27. Automatic Watering System has been completely approved .
+28. When you use it , you must pay much attention to keep the automatic watering system clean .
+29. The users should regularly clean the watering plug for the plug is a kind of plastic good .
+30. Clean the surface directly with tap water and no need to use other detergent .
+31. Filling after finishing charging is the best ideal state, besides , do not filling before charging .
+32. Hydraulic reservoir Check for oil level , Change oil    Check for fluid level, Change brake fluid   Hoses and Pipes Check for damage , leakage or collapse   Check for oil leak, looseness , collapse , deformation and damage   Test hammer Check for cylinders for operation   Lifting system Checking item Service required Tools Daily ( 8 hrs weekly ( 40 hrs weekly) Monthly ( 166hrs) monthly ( 500hrs ) Trimonthly ( 500 hrs ) Semiannually (1000hrs), Trimonly (500hrs , 1000hrs ), Services Daily (8hrs weekly (40hrs monthly) and Daily (16hrs daily)  The Fork Lift Truck is designed for material handling only .
+33. It is inappropriate for long-distance transportation .
+34. Some parts should be checked periodically to detect the damage .
+35. Users should replace the parts periodically which are listed in the table as follows .
+36. If the parts are abnormal before the replacing time is coming, it should be replaced immediately .
+37. The fork lift truck must be transported by ship, train or lorry, of 5T loading .
+
+REFERENCIAS:
+For more information, consult the full manual.

@@ -1,0 +1,73 @@
+GLOSARIO:
+- camión: Una rueda pequeña o rodillo, específicamente la rueda de un carruaje de armas.
+- pila: Dispositivo utilizado para alimentar aparatos eléctricos, que consiste en un conjunto de celdas electroquímicas o, antiguamente, electrostáticas conectadas eléctricamente. Una sola de estas celdas cuando se utiliza sola.
+- jaque: Situación en la que el rey se ve amenazado directamente por una pieza contraria.
+- carga: Una carga; un peso que debe ser llevado.
+- mm: Expresión utilizada para mostrar satisfacción por algo.
+- palanca: (excepto en los sentidos generalizados que se indican a continuación) Una palanca.
+- freno: Un helecho; helecho.
+-max: Un extremo, una gran extensión.
+- levantar: Levantar o elevar.
+- interruptor: Un conjunto de varillas delgadas, generalmente de madera, a veces unidas de tal manera que la encuadernación se puede mover para variar la tensión de la misma.
+- uso: El acto de usar.
+- mástil: Poste o torre alto y delgado, que generalmente se estrecha hacia arriba y que se utiliza para sostener, por ejemplo, las velas de un barco, banderas, reflectores, instrumentos meteorológicos o equipos de comunicaciones como una antena, generalmente sostenidos por cables tensores.
+- aceite: Grasa líquida.
+- carretilla elevadora: Un vehículo industrial pequeño con una plataforma con puntas en forma de horquilla accionada eléctricamente que se puede elevar y bajar para insertarse debajo de una carga, a menudo sobre paletas, para ser levantada y movida.
+- electrolito: Sustancia que, en solución o fundida, se ioniza y conduce la electricidad.
+- tenedor: Herramienta con puntas que tiene un mango largo y recto, que se utiliza para cavar, levantar, lanzar, etc.
+- marca: Marca o tipo; modelo.
+- horquillas: Herramienta con puntas que tiene un mango largo y recto, utilizada para cavar, levantar, lanzar, etc.
+- rueda: Dispositivo circular capaz de girar sobre su eje, facilitando el movimiento o el transporte o realizando trabajos en máquinas.
+- apego: El acto o proceso de apegarse (física o figurativamente).
+
+RESUMEN ESTRUCTURADO:
+
+RECOMENDACIONES:
+La carretilla elevadora de batería con contrapeso de cuatro ruedas es el nuevo producto de nuestra empresa. Tiene las características de un radio de giro pequeño, una forma hermosa, dimensiones pequeñas, baja gravedad, buena estabilidad y un rendimiento superior. Este manual de operación explica cómo utilizar correctamente las carretillas elevadoras de la serie 1-5tJ. Le indicará cómo operar de manera segura y realizar el mantenimiento preventivo. Para garantizar la seguridad y aprovechar el potencial de la carretilla, todo el personal a cargo de la operación debe leer este manual detenidamente antes de comenzar a trabajar con la carretilla elevadora. Se explican los significados de los indicadores (A) y (B C D F GHI). El modo se puede cambiar a través del botón de cambio de modo (G) entre los modos S, P, E, SPE. El modo P es el modo de potencia, S es el modo super, E es el modo económico. El modo SPE es el modo seguro. La velocidad máxima del vehículo está limitada a aproximadamente 7 km/h. El modo predeterminado es el modo E después de cada corte de energía. Cuando la operación es incorrecta o el camión está en problemas, el código de error se mostrará en el tablero. Advertencia de batería baja (C) Cuando la cantidad de batería es inferior al 20% de la capacidad máxima, las luces indicadoras se encienden. Cuando el LED muestra que no hay energía, cargue la batería lo más rápido posible. Al tirar de la palanca del freno de estacionamiento, esta luz se enciende. Botón de entrada (G) Este botón no es de uso para el operador. El volante de dirección se opera de la manera convencional. Para poner en funcionamiento la dirección asistida nuevamente, reinicie el motor de dirección sin demora. La palanca del freno de estacionamiento se usa para estacionar las dos ruedas delanteras tirando de esta palanca hacia arriba. Para liberar los frenos de estacionamiento, mueva la palanca hacia adelante. El mástil se puede inclinar mediante la operación de esta palanca de inclinación. La velocidad de inclinación se puede controlar mediante el ángulo de inclinación de la palanca. La vida útil de uso es de 3 a 5 años, deséchelo antes de lo previsto si encuentra alguna anormalidad. El espaciado de la horquilla debe ajustarse de acuerdo con las cargas a manipular. Las horquillas deben ajustarse simétricamente a la línea central de la máquina y los topes de las horquillas siempre deben bloquearse nuevamente. Hay un espacio en la viga inferior. Está prohibido bloquear la horquilla en la posición de espacio, para evitar que la horquilla se caiga del espacio. En el medio de la viga superior, se usa un perno para evitar que la horquilla funcione aquí. La columna de dirección es ajustable para adaptarse a operadores individuales. Gire la palanca manual hacia arriba para liberar la columna de dirección y bloquéela girándola hacia abajo. La tapa del depósito de aceite hidráulico se encuentra en el extremo trasero derecho, debajo del capó de la batería. El tapón de fuga de aire en el tanque de aceite para dejar entrar aire en el tanque se apaga. Cuando el operador deja el asiento, este interruptor se corta y se corta la energía de la carretilla. Cinturón de seguridad (para las carretillas que exportan a Europa u opción) Utilice la inclinación mínima hacia adelante y hacia atrás al apilar y desapilar cargas. Nunca incline hacia adelante a menos que la carga esté sobre la pila o a una altura de elevación baja. Al manipular cargas voluminosas que restrinjan su visión, opere la carretilla en reversa o tenga un guía.
+
+PRECAUCIONES:
+Nunca intente inclinar el mástil más allá de la vertical cuando la carga esté elevada. Esté atento a ramas, cables, puertas o aleros. Tenga cuidado al trabajar en áreas congestionadas. Nunca levante cargas con la carretilla inclinada. Evite cargar trabajo en una pendiente. Nunca permita que nadie se pare o camine debajo de horquillas elevadas u otros accesorios si la máquina está equipada con ellos. Use un soporte o bloque de seguridad para evitar la posibilidad de que los accesorios de las horquillas se caigan o se muevan inesperadamente. No opere la carretilla cuando el clima sea execrable. Especialmente cuando la velocidad del viento sea superior a 5 m/s, no opere la carretilla al aire libre. La estructura básica de la carretilla es el mástil (incluye mástil y horquillas) y la carrocería (incluye neumático). La carretilla elevadora mantiene el equilibrio de peso entre la carrocería de la carretilla y la carga en las horquillas con el centro de las ruedas delanteras como punto de apoyo cuando la carga de capacidad nominal se coloca en posición. Se debe prestar el debido cuidado al centro de gravedad de las cargas y la carretilla elevadora para mantener la estabilidad. La seguridad del camión está relacionada con su trabajo y su vida. Recomendamos operar la máquina bajo condiciones de carga ligera durante la primera etapa de operación para aprovecharla al máximo. Los requisitos que se indican a continuación deben observarse mientras la máquina esté en una etapa de 100 horas de operación. Debe evitar que la batería nueva se descargue demasiado cuando se usa temprano. Por lo general, debe recargarse cuando se descarga hasta el 20%. La fuerza de la palanca del freno de mano se ajusta mediante el perno en la parte superior de la palanca. La fuerza aumenta atornillando en el sentido de las agujas del reloj y disminuye atornillando en el sentido contrario. La aceleración cambia a medida que cambia el recorrido. La luz de freno debe encenderse cuando el pedal del freno pisa 10-20 mm. Comprobación del nivel de líquido de frenos Abra la tapa de la lubricación de frenos. Compruebe que el nivel de líquido esté en el rango permitido. Si falta, añada y compruebe si hay mezcla de aire en la tubería. Advertencia Antes de operar el camión, compruebe que todos los controles y dispositivos de advertencia funcionen correctamente. Si encuentra algún daño o falla, no opere el camión hasta que se corrija. Comprobación de las luces intermitentes, la bocina y otras luces Asegúrese de que las luces intermitentes funcionan correctamente tirando/empujando el interruptor de las luces intermitentes. Asegúrese de que la bocina suena correctamente presionando el botón de la bocina. Compruebe las otras luces y el zumbador de marcha atrás. Mantenimiento de la batería Consulte la sección de baterías. No abandone ni se baje del camión cuando la carga esté muy elevada. Desacelere el camión en las siguientes situaciones: · al girar; . · al cerrar la mercancía o el palé; . al cerrar el área de depósito; · al entrar en un paso estrecho; . Al desapilar la carga; · al estar en mal estado la superficie de la carretera; . La madera estibada debe ser simple y lo suficientemente dura para soportar el camión. No utilice madera estibada de más de 300 mm (11,81 pulgadas). Batería de almacenamiento Atención al utilizar la batería: 1. No encienda.
+Información de precaución adicional: Le indicará
+Le enseñará cómo realizar un mantenimiento preventivo y de seguridad.
+
+INSTRUCCIONES:
+1. No fumar .
+2. Sin sobredescarga.
+3. No utilice un paño seco ni un paño de fibra para limpiar la batería.
+4. Limpieza con paño húmedo.
+5. Usar gafas, guantes de goma y guantes de goma.
+6. Medir en verano en verano.
+7. El agua en el electrolito se evapora fácilmente.
+8. El vitriolo incluido en el electrolito puede provocar quemaduras; consulte al médico para recibir tratamiento de emergencia rápidamente.
+9. El proceso de carga es automático; para conocer los detalles del método de uso, consulte el manual de funcionamiento del cargador.
+10. Conectar con el cable de tierra cuando se utiliza la carga.
+11. Para reemplazar el fusible, asegúrese de que los circuitos de entrada y salida estén desconectados.
+12. Sólo una persona profesional puede desmontar la cubierta para comprobarla y repararla.
+13. En la temporada de altas temperaturas, preste atención al punto 32 para evitar que la carga se destruya debido a las altas temperaturas.
+14. Las primeras cinco cargas deben realizarse utilizando la carga de equilibrio de acuerdo con el manual de funcionamiento del cargador inteligente.
+15. El cambio eléctrico de una batería nueva las primeras cinco veces debe ser 1,5 veces mayor que la última descarga eléctrica.
+16. Durante cualquier carga, la temperatura del electrodo no debe superar los 450 °C.
+17. Si la temperatura no baja, debes dejar de cargar hasta que baje.
+18. Adopte la carga inteligente para la carga diaria.
+19. Asegúrese de que el voltaje, la capacidad, el tamaño y el peso de la batería nueva coincidan con los de la carretilla elevadora antes de reemplazar la batería.
+20. Está prohibido utilizar baterías con voltaje, capacidad o peso diferentes a los prometidos por la fábrica.
+21. Realizar la carga de equilibrio una vez cada 15 a 30 días durante el período de almacenamiento.
+22. La batería de almacenamiento de pedidos especiales continúa cargándose de acuerdo con las "Instrucciones de uso del acumulador".
+23. Sistema de riego automático de batería de almacenamiento de montacargas - Grupo de batería de 48 V Flotador.
+24. El sistema de riego automático es fácil de operar, no es necesario terminar de regar el electrolito en el electrolito con la mano.
+25. Cómo instalar correctamente el tanque de agua, elegir flotadores adecuados, cómo confirmar la especificación y cantidad de los accesorios instalados según los diferentes tipos de batería.
+26. La especificación de la aplicación y la instalación incluyen reglas de aplicación correctas para el tapón de riego automático, la tubería de riego, las piezas T/L y los acoplamientos macho/hembra.
+27. El sistema de riego automático ha sido completamente aprobado.
+28. Al utilizarlo, debe prestar mucha atención para mantener limpio el sistema de riego automático.
+29. Los usuarios deben limpiar periódicamente el tapón de riego, ya que es un tipo de plástico.
+30. Limpie la superficie directamente con agua del grifo y no es necesario utilizar otro detergente.
+31. El llenado después de terminar la carga es el mejor estado ideal, además, no llene antes de cargar.
+32. Depósito hidráulico Verificar el nivel de aceite, cambiar el aceite Verificar el nivel del líquido, cambiar el líquido de frenos Mangueras y tuberías Verificar si hay daños, fugas o colapso Verificar si hay fugas de aceite, holgura, colapso, deformación y daños Martillo de prueba Verificar el funcionamiento de los cilindros Sistema de elevación Elemento de verificación Servicio requerido Herramientas Diariamente (8 horas semanales (40 horas semanales) Mensualmente (166 horas) mensualmente (500 horas) Trimestralmente (500 horas) Semestralmente (1000 horas), Trimestralmente (500 horas, 1000 horas), Servicios Diariamente (8 horas semanales (40 horas mensuales) y Diariamente (16 horas diarias) La carretilla elevadora está diseñada solo para manipulación de materiales.
+33. No es apropiado para el transporte de larga distancia.
+34. Algunas piezas deben revisarse periódicamente para detectar daños.
+35. Los usuarios deben reemplazar periódicamente las piezas que se enumeran en la siguiente tabla.
+36. Si las piezas son anormales antes de que llegue el momento de reemplazarlas, deben reemplazarse inmediatamente.
+37. La carretilla elevadora deberá ser transportada en barco, tren o camión, de 5T de carga.
+
+REFERENCIAS:
+Para obtener más información, consulte el manual completo.
